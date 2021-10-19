@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MichaelFrieze/planets-project/issues"
   },
-  "homepage": "https://github.com/MichaelFrieze/planets-project#readme"
+  "homepage": "https://github.com/MichaelFrieze/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^4.16.3"
+  }
 }
